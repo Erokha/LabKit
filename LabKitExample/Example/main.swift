@@ -1,0 +1,3 @@
+import LabKit
+
+ArraySliceExample.example()
